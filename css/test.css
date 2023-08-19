@@ -1,14 +1,18 @@
 body{
-	background-color: lightgray;
+	background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5uNnRnY2hkd3E0bmNsbzRvdzEyY3o0dWNqdm9mMGMwbjVxcmc4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4Zo41lhzKt6iZ8xff9/giphy.gif");
+	background-repeat: repeat-y repeat-x;
+	background-position-y: center;
 }
 h1 {
-	font-size: 30px;
-	color: teal;
+	font-size: 100px;
+	color: black;
 }
 
 h2{
-	color: darkred;
-	font-size: 20px;
+	color: black;
+	font-size: 30px;
+	font-family: fantasy;
+
 }
 
 .big{
@@ -25,4 +29,16 @@ h2{
 
 h1 span{
 	color: blueviolet;
+}
+
+.brown-box{
+	background-color: saddlebrown;
+	color: black;
+	width: 550px;
+}
+
+.white-box{
+	background-color: floralwhite;
+	color: black;
+	width: 550px;
 }
