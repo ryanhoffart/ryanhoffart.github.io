@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 25px;
+	line-height: 30px;
+}
+
+header{
+	background-color: floralwhite;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-family: 'Underdog', sans-serif;
+}
+
+header h1{
+	color: black;
+	font-size: 50px;
+
+}
+
+h1,h2{
+	font-family: 'Underdog', sans-serif;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: #825317 10px solid;}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+
+	}
+
+h2{
+	font-size: 30px;
+	color: black;
+}
+
+a{
+	color: blue;
+}
+a:hover{
+	background-color: red;
+	color: white;
+}
+
+footer{
+	background-color: floralwhite;
+	text-align: center;
+	color: black;
+}
+
